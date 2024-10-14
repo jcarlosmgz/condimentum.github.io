@@ -8,6 +8,9 @@
     <image:image>
       <image:loc>http://Condimentum.com/images/logo.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/what.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://Condimentum.com/contacto.html</loc>
@@ -16,6 +19,9 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://Condimentum.com/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/what.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -27,6 +33,21 @@
       <image:loc>http://Condimentum.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://Condimentum.com/images/what.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/g1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/g2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/g3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/g4.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://Condimentum.com/images/1b-crop-u836.jpg</image:loc>
     </image:image>
     <image:image>
@@ -34,6 +55,18 @@
     </image:image>
     <image:image>
       <image:loc>http://Condimentum.com/images/1b-crop-u8363.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/1b-crop-u8364.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/1b-crop-u8365.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/1b-crop-u8366.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/1b-crop-u8367.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -43,6 +76,9 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://Condimentum.com/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Condimentum.com/images/what.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://Condimentum.com/images/1a-crop-u630.jpg</image:loc>
